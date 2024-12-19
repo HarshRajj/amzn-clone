@@ -1,0 +1,50 @@
+body{
+    background-color: rgb(28, 28, 77);
+}
+div{
+    width: 100%;
+    height:60px;
+    background-color: green;
+    background-color: #0f1111;
+    border: 4px solid white;
+    padding-top: 10px;
+
+}
+.txt{
+    font-size: 25px;
+    color: rgb(245, 152, 30);
+    padding-right: 80px;
+}
+.txt2{
+    font-size: 20px;
+    color: white ;
+    padding:80px;
+}
+.box{
+    background-color: aliceblue;
+    border-radius: 5px ;
+    height: 30px;
+    width: 150px ;
+    font-size: 20px;
+    color: grey;
+    font-family:system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif ;
+    margin-left: 20px;
+
+
+}
+.box2{
+    background-color:#f08804;
+    border-radius: 5px;
+    height: 30px;
+    width: 150px ;
+    font-size: 20px;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    color:white;
+
+    margin-left: 20px;
+
+
+}
+button{
+    color: #f08804;
+}
